@@ -1,0 +1,4 @@
+include ':testapk'
+include ':plugn_core'
+include ':app'
+rootProject.name = "ChajianHua"
